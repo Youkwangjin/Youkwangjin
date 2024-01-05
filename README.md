@@ -2,7 +2,7 @@
 <p>
   <a href="mailto:kwangjin5468@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kwangjin5468@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <a href="https://velog.io/@kwangjin5468/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https:/kxxngjinbackend.notion.site" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>  
+  <a href="https://kxxngjinbackend.notion.site" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </p>
 
 
