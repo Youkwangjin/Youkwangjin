@@ -20,7 +20,6 @@
 📌 **Backend**
 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/JPA-005F0F?style=flat-square&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-2E5E82?style=flat-square&logo=MyBatis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
 
