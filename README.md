@@ -1,6 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kwang-Jin%20You&fontAlign=50&fontAlignY=40&color=gradient"/>
-  
 ## 🙌 About me
 <ul>
   <li>안녕하세요! 꾸준히 성장하는 백엔드 개발자 유광진 입니다.</li>
