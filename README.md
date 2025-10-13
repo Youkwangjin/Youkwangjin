@@ -56,3 +56,4 @@
 - 📧 **Email:** kwangjin5468@gmail.com    
 - ✍️ **Velog:** [velog.io/@kwangjin5468](https://velog.io/@kwangjin5468) 
 - 💼 **LinkedIn:** [linkedin.com/in/광진-유](https://www.linkedin.com/in/%EA%B4%91%EC%A7%84-%EC%9C%A0-5b3a922b7/)
+- 📚 **Portfolio / Notion:** [kxxngjin Notion](https://kxxngjinbackend.notion.site/227ecc503d6f4c5a93d9f73c341ada62)
