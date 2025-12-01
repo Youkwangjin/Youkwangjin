@@ -20,12 +20,6 @@
 > **GitHub:** [github.com/Youkwangjin/SpringBootTeamProject](https://github.com/Youkwangjin/SpringBootTeamProject)
 ---
 
-### 🐾 [PetCommunity](https://github.com/Imadeveloperrr/petCommunity)
-> 반려동물 커뮤니티 플랫폼  
-> Spring Boot 3.x + JPA + WebSocket 기반 실시간 채팅 및 게시판 기능 구현  
-> **GitHub:** [github.com/Imadeveloperrr/petCommunity](https://github.com/Imadeveloperrr/petCommunity)
----
-
 ## 🛠 Tech Stack
 
 ### **Backend**
@@ -34,13 +28,6 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=databricks&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
 ### **DevOps / Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -56,4 +43,3 @@
 - 📧 **Email:** kwangjin5468@gmail.com    
 - ✍️ **Velog:** [velog.io/@kwangjin5468](https://velog.io/@kwangjin5468) 
 - 💼 **LinkedIn:** [linkedin.com/in/광진-유](https://www.linkedin.com/in/%EA%B4%91%EC%A7%84-%EC%9C%A0-5b3a922b7/)
-- 📚 **Portfolio / Notion:** [kxxngjin Notion](https://kxxngjinbackend.notion.site/227ecc503d6f4c5a93d9f73c341ada62)
