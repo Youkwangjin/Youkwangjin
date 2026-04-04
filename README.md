@@ -16,7 +16,7 @@
 
 ### 🧗 [ClimbStyle (클라이밍 패션 SNS 플랫폼)](https://github.com/Youkwangjin/climbstyle-api)
 > 클라이밍을 즐기는 사람들을 위한 패션 공유 SNS 플랫폼 (개인 프로젝트, 진행 중)  
-> **기간:** 2025.11 ~ 진행 중  
+> **기간:** 2026.01 ~ 진행 중  
 > **기술 스택:** Java 17 / Spring Boot 3.5.6 / Spring Security 6.5.5 / Thymeleaf 3.1.3 / MyBatis 3.5.13 / PostgreSQL 14  
 > **참여 인원:** 1인  
 > **GitHub:** [github.com/Youkwangjin/climbstyle-api](https://github.com/Youkwangjin/climbstyle-api)
